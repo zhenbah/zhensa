@@ -128,7 +128,7 @@ ui:
   # infinite_scroll: When true, automatically loads the next page when scrolling to bottom of the current page.
   infinite_scroll: false
   # ui theme
-  default_theme: simple
+  default_theme: minimal
   # center the results ?
   center_alignment: false
   # URL prefix of the internet archive, don't forget trailing slash (if needed).
