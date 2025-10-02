@@ -852,6 +852,18 @@ engines:
     disabled: true
     timeout: 5.0
 
+  - name: baidu maps
+    engine: baidu_maps
+    shortcut: bdmap
+    disabled: false
+    timeout: 5.0
+
+  - name: google maps
+    engine: google_maps
+    shortcut: gmap
+    disabled: false
+    timeout: 5.0
+
   - name: emojipedia
     engine: emojipedia
     timeout: 4.0
