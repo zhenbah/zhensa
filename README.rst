@@ -43,7 +43,7 @@ To fine-tune SearXNG, see `Configuration guide`_.
 
 Further information on *how-to* can be found `here <https://docs.searxng.org/admin/index.html>`_.
 
-Connect
+Connect 
 =======
 
 If you have questions or want to connect with others in the community,
