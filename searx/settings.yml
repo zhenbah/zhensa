@@ -336,6 +336,7 @@ categories_as_tabs:
   science:
   files:
   social media:
+  shopping:
 
 engines:
   - name: 360search
@@ -527,6 +528,12 @@ engines:
     shortcut: bdk
     disabled: true
 
+  - name: baidu shopping
+    engine: baidu_shopping
+    shortcut: bds
+    categories: [shopping]
+    disabled: false
+
   - name: wikipedia
     engine: wikipedia
     shortcut: wp
@@ -555,6 +562,12 @@ engines:
   - name: bing videos
     engine: bing_videos
     shortcut: biv
+
+  - name: bing shopping
+    engine: bing_shopping
+    shortcut: bis
+    categories: [shopping]
+    disabled: false
 
   - name: bitchute
     engine: bitchute
@@ -1085,6 +1098,12 @@ engines:
   - name: google scholar
     engine: google_scholar
     shortcut: gos
+
+  - name: google shopping
+    engine: google_shopping
+    shortcut: gosho
+    categories: [shopping]
+    disabled: false
 
   - name: google play apps
     engine: google_play
