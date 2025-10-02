@@ -864,6 +864,24 @@ engines:
     disabled: false
     timeout: 5.0
 
+  - name: bing maps
+    engine: bing_maps
+    shortcut: bingmap
+    disabled: false
+    timeout: 5.0
+
+  - name: yandex maps
+    engine: yandex_maps
+    shortcut: yandexmap
+    disabled: false
+    timeout: 5.0
+
+  - name: here maps
+    engine: here_maps
+    shortcut: heremap
+    disabled: false
+    timeout: 5.0
+
   - name: emojipedia
     engine: emojipedia
     timeout: 4.0
